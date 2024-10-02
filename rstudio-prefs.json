@@ -1,0 +1,37 @@
+{
+    "save_workspace": "never",
+    "load_workspace": false,
+    "initial_working_directory": "~",
+    "editor_theme": "Solarized Dark",
+    "posix_terminal_shell": "bash",
+    "panes": {
+        "quadrants": [
+            "Source",
+            "Console",
+            "TabSet1",
+            "TabSet2",
+            "HiddenTabSet"
+        ],
+        "tabSet1": [
+            "Environment",
+            "History",
+            "Connections",
+            "Build",
+            "VCS",
+            "Tutorial",
+            "Presentation"
+        ],
+        "tabSet2": [
+            "Files",
+            "Plots",
+            "Packages",
+            "Help",
+            "Viewer",
+            "Presentations"
+        ],
+        "hiddenTabSet": [],
+        "console_left_on_top": false,
+        "console_right_on_top": true,
+        "additional_source_columns": 1
+    }
+}
